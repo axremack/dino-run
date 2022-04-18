@@ -1,0 +1,26 @@
+body {
+ padding: 0px;
+ margin: 0px;
+ background-color: #DDDDDD;
+}
+
+#scene {
+ /*pointer-events: none;*/
+ /*overflow: hidden;*/
+
+ background-color: #FFFFFF;
+}
+
+#score {
+    text-align: center;
+    background-color : black;
+    color: white;
+}
+
+#demarr{
+    z-index:0;
+}
+
+#zone{
+    background-color: #4eadf5;
+}
